@@ -1,2 +1,2 @@
 # LLMs
-Recreating the paper "Attention is All You Need" with a twisted of OpenAI's GPT-2/3
+Recreating the paper "Attention is All You Need" with a twist on OpenAI's GPT-2/3
